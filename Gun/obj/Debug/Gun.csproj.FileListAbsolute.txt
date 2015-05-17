@@ -1,0 +1,6 @@
+C:\Users\Andrew_975\Google Диск\@4term\KПЗ\Lab2\Gun\Gun\bin\Debug\Gun.exe.config
+C:\Users\Andrew_975\Google Диск\@4term\KПЗ\Lab2\Gun\Gun\bin\Debug\Gun.exe
+C:\Users\Andrew_975\Google Диск\@4term\KПЗ\Lab2\Gun\Gun\bin\Debug\Gun.pdb
+C:\Users\Andrew_975\Google Диск\@4term\KПЗ\Lab2\Gun\Gun\obj\Debug\Gun.csprojResolveAssemblyReference.cache
+C:\Users\Andrew_975\Google Диск\@4term\KПЗ\Lab2\Gun\Gun\obj\Debug\Gun.exe
+C:\Users\Andrew_975\Google Диск\@4term\KПЗ\Lab2\Gun\Gun\obj\Debug\Gun.pdb
